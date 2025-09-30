@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">A passionate game developer from Bulgaria, currently studying in TUES.</h3>
 
-- 👨‍💻 All of my projects are available at [kristiannikolov07.github.io](kristiannikolov07.github.io)
+- 👨‍💻 All of my projects are available at [kristiannikolov07.github.io](https://kristiannikolov07.github.io)
 
 - 💬 Ask me about **Godot, Unity, SFML**
 
