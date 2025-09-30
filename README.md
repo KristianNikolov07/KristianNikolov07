@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **kristian.g.nikolov.2021@elsys-bg.org**
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KristianNikolov07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kristian-nikolov07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristian-nikolov07" height="30" width="40" /></a>
