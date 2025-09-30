@@ -3,11 +3,6 @@
 
 <br>
 
-
-# 💫 About Me:
-👨‍💻 All of my projects are available at kristiannikolov07.github.io<br>💬 Ask me about Godot, Unity, SFML<br>📫 How to reach me kristian.g.nikolov.2021@elsys-bg.org<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristian-nikolov07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kristian.g.nikolov.2021@elsys-bg.org) 
 
