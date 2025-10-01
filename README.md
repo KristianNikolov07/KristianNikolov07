@@ -1,5 +1,5 @@
-# Hi 👋, I am Kris. I am a passionate game developer from Bulgaria, currently studying in TUES.
-
+# Hi 👋, I am Kris.
+I am a passionate game developer from Bulgaria, currently studying in TUES.
 
 
 ## 🌐 Socials:
