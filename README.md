@@ -3,7 +3,7 @@ I am a passionate game developer from Bulgaria, currently studying in TUES.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristian-nikolov07) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristian.g.nikolov.2021@elsys-bg.org) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kris-nikolov.itch.io/) [![GameJolt](https://img.shields.io/badge/GameJolt-%23CCFF00?style=for-the-badge&logo=gamejolt&logoColor=%20%232f7f6f&link=https%3A%2F%2Fgamejolt.com%2F%40KrisNikolov)](https://gamejolt.com/@KrisNikolov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristian-nikolov07) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristian.g.nikolov.2021@elsys-bg.org) [![Itch.io](https://img.shields.io/badge/Itch-%23FA5C5C.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kris-nikolov.itch.io/) [![GameJolt](https://img.shields.io/badge/GameJolt-%23CCFF00?style=for-the-badge&logo=gamejolt&logoColor=%20%232f7f6f&link=https%3A%2F%2Fgamejolt.com%2F%40KrisNikolov)](https://gamejolt.com/@KrisNikolov)
 
 
 # 💻 Tech Stack:
