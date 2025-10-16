@@ -1,5 +1,5 @@
 # Hi 👋, I am Kris.
-I am a passionate game developer from Bulgaria, currently studying in TUES.
+I am a passionate 18 years old game developer from Bulgaria, currently studying in TUES.
 
 
 ## 🌐 Socials:
